@@ -96,8 +96,7 @@ After you get a copy of this repo in your own GitHub account,
 open a machine terminal in your `Repos` folder:
 
 ```shell
-# Replace username with YOUR GitHub username.
-git clone https://github.com/username/nlp-03-text-exploration
+git clone https://github.com/reedbc1/nlp-03-text-exploration
 cd nlp-03-text-exploration
 code .
 ```
